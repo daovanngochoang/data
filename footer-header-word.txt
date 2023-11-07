@@ -100,7 +100,7 @@ standard
 mikrobus™
 mikrosdk
 sibrain
-discon
+discount
 email address
 subscribe
 daily products releases, special offers, and more
@@ -110,3 +110,5 @@ careers
 internship
 copyright© 2023 mikroelektronika d.o.o.
 privacy
+top of page
+product category
